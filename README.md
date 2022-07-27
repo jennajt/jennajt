@@ -14,8 +14,6 @@
 - [Machine learning](https://github.com/jennajt/SpaceshipTitanic_ML_Kaggle)
 - [Deep learning](https://github.com/jennajt/Gender_Prediction) 
 
-#### Connect with me on LinkedIn
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jenna-tan-a1a58757/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lorcanrae" height="30" width="40" /></a>
