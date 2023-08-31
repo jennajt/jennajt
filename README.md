@@ -1,14 +1,14 @@
-### Hi, I'm Jenna :hibiscus: 
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=DM+Serif+Display&weight=9000&size=40&pause=100&color=150D1A&background=0B335A00&width=900&lines=Hi!%2C+I'm+Jenna.;Talk+to+me+about+data+for+social+impact!" alt="Title"></img>
+</div>
 
 #### I'm a transitioning data scientist with 10 years of experience in Strategy in the health and for-purpose sector. 
 
-**Talk to me about data for _social impact_ :fireworks: !**
+- 🔭 I’m currently rebuilding a [loneliness prescription index for the UK](https://github.com/humaniverse/loneliness) using a KNN model and GP prescription data
+- 🌱 I contribute to and maintain open source humanitarian [repos](https://github.com/humaniverse/healthyr) and [apps](https://github.com/britishredcrosssociety/health-inequalities-explorer) 
+- 👯 I like collaborating on all things social impact, like [this](https://github.com/OmdenaAI/london-chapter-nlp-self-harm) project that uses NLP to predict self harm and [this](https://omdena.com/projects/credit-scoring-in-africa/) project that creates a credit scoring model for the unbanked
 
-- 🔭 I’m currently working on an [Omdena project](https://omdena.com/projects/credit-scoring-in-africa/) to develop a credit score algorithm that allows for the financial inclusion of unbanked Nigerian
-- 🌱 I’m currently learning Tableau and advanced SQL
-- 👯 I’m looking to collaborate on all things social impact driven!
-
-*Check out examples of my work here*:
+*Check out other examples of my work here*:
 - [Natural Language Processing](https://github.com/jennajt/NLP_sentiment) on 1.3 million tweets, showcased [here](https://jennajt-nlp-sentiment-app-ine0dv.streamlitapp.com) 
 - [Data analysis and visualisation](https://github.com/jennajt/Data_Viz)
 - [Machine learning](https://github.com/jennajt/SpaceshipTitanic_ML_Kaggle)
