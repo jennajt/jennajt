@@ -1,8 +1,8 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=DM+Serif+Display&weight=9000&size=40&pause=100&color=150D1A&background=0B335A00&width=900&lines=Hi!%2C+I'm+Jenna.;Talk+to+me+about+data+for+social+impact!" alt="Title"></img>
+    <img src="https://readme-typing-svg.herokuapp.com?font=DM+Serif+Display&weight=9000&size=35&pause=100&color=150D1A&background=0B335A00&width=900&lines=Hi!%2C+I'm+Jenna.;Talk+to+me+about+data+for+social+impact!" alt="Title"></img>
 </div>
 
-#### I'm a transitioning data scientist with 10 years of experience in Strategy in the health and for-purpose sector. 
+#### I'm a data scientist with 10 years of experience in Strategy in the health and for-purpose sector. 
 
 - 🔭 I’m currently rebuilding a [loneliness prescription index for the UK](https://github.com/humaniverse/loneliness) using a KNN model and GP prescription data
 - 🌱 I contribute to and maintain open source humanitarian [repos](https://github.com/humaniverse/healthyr) and [apps](https://github.com/britishredcrosssociety/health-inequalities-explorer) 
