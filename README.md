@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=DM+Serif+Display&weight=9000&size=35&pause=100&color=150D1A&background=0B335A00&width=900&lines=Hi!%2C+I'm+Jenna.;Talk+to+me+about+data+for+social+impact!" alt="Title"></img>
+    <img src="https://readme-typing-svg.herokuapp.com?font=DM+Serif+Display&weight=9000&size=35&pause=100&color=150D1A&background=0B335A00&width=900&lines=Hello!+I'm+Jenna.;Talk+to+me+about+data+for+social+impact!" alt="Title"></img>
 </div>
 
 #### I'm a data scientist with 10 years of experience in Strategy in the health and for-purpose sector. 
